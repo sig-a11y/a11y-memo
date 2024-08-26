@@ -15,3 +15,19 @@
 ## NVDA
 
 - #NVDA_Internals: https://nvda.groups.io/g/nvda/search?q=%23NVDA_Internals
+
+
+## Links
+> Site, Blog, ...
+
+- [Game Accessibility Resources Roundup • DigitalA11Y](https://www.digitala11y.com/game-accessibility-resources-roundup/)
+- [GAconf - ARCHIVE](https://www.gaconf.com/archive/)
+
+
+Org:
+- [AFB Blog | American Foundation for the Blind](https://www.afb.org/blog)
+- [Accessibility | Eurogamer.net](https://www.eurogamer.net/topics/accessibility)
+
+Personal Blog:
+- [IllegallySighted](https://www.illegallysighted.com/)
+- [Sightless Kombat: Reviews, Guides And Articles](http://www.reviews.sightlesskombat.com/)
