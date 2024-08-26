@@ -6,6 +6,10 @@
 - http://www.zdsr.com/
 - API doc: http://www.zdsr.com/documentation-zdsrapi.htm
 
+## [CN] 保益悦听 (Boy)
+`BoyCtrl.dll`, `BoyCtrl-x64.dll`
+- http://sd.bjbyhd.com/section/2
+- API: https://github.com/sig-a11y/BoyCtrl-API/blob/main/BoyCtrl.h
 
 ## PC-Talker
 
