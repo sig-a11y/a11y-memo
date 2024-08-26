@@ -1,5 +1,12 @@
 # Screen Reader API
 
+## [CN] 争渡读屏 (zdsr)
+
+`ZDSRAPI.dll`, `ZDSRAPI_x64.dll`
+- http://www.zdsr.com/
+- API doc: http://www.zdsr.com/documentation-zdsrapi.htm
+
+
 ## PC-Talker
 
 `PCTKUSR.dll`
