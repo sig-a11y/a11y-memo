@@ -87,7 +87,7 @@ const config = {
             position: 'left',
             label: '备忘录',
           },
-          {to: '/blog', label: '博客', position: 'left'},
+          // {to: '/blog', label: '博客', position: 'left'},
           {
             href: 'https://github.com/sig-a11y/a11y-memo',
             label: 'GitHub',
