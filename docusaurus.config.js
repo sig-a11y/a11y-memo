@@ -108,7 +108,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} A11y-Memo Project, Built with Docusaurus`,
+        copyright: `Copyright © ${new Date().getFullYear()} SIG-A11y Project, Built with Docusaurus`,
       },
       prism: {
         theme: prismThemes.github,
