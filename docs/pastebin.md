@@ -1,6 +1,6 @@
 # 待分类
 
-## 无障碍相关视频
+## 视频
 
 ### Bilibili
 
@@ -9,5 +9,16 @@
 
 ### YouTube
 
-- [A (Blind-Accessible) History of Blind Gaming - YouTube](https://youtu.be/oKgN4va-gas)
-- [A Brief History of Blind Accessibility - YouTube](https://youtu.be/taTIBUynUys)
+- 17 min [A (Blind-Accessible) History of Blind Gaming - YouTube](https://youtu.be/oKgN4va-gas)
+- 17 min [A Brief History of Blind Accessibility - YouTube](https://youtu.be/taTIBUynUys)
+
+## 文章
+
+- [A new era of gaming accessibility is about to begin news - ModDB](https://www.moddb.com/news/a-new-era-of-gaming-accessibility-is-about-to-begin)  
+    要点概述性的介绍了 `1428: Shadows over Silesia` 的无障碍设计
+
+
+### 系列文章、指南
+
+- [游戏无障碍设计指南 - 重要性 & 说明 | indienova](https://v3.indienova.com/site/gag/)  
+    Game Accessibility Guidelines 的翻译
