@@ -1,8 +1,8 @@
-# A11y Memo
+# Game Accessibility Memo
 
-> Random memos for game accessibility.
->
 > 关于游戏可访问性的随机想法备忘录。
+>
+> Random Memos for Game Accessibility.
 
 内容见: [`docs/`](docs/) 文件夹
 
