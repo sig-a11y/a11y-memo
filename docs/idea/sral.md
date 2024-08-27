@@ -5,6 +5,9 @@
     https://github.com/khanshoaib3/stardew-access#introduction
 - The MacOSX version uses Cocoa NSSpeechSynthesizer, Windows uses Speech API, Linux uses QtTextToSpeech.
     https://github.com/Flameborn/libspeak
+- https://github.com/AccessKit/accesskit
+- https://github.com/qtnc/UniversalSpeech
+- https://github.com/sig-a11y/tolk
 
 ## Windows
 
