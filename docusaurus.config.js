@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Game A11y Memo',
+  title: 'Game Accessibility Memo',
   tagline: '游戏无障碍的技术备忘及想法',
   favicon: 'img/favicon.ico',
 
