@@ -1,6 +1,5 @@
-# Accessibility Mod for Games
+# Github
 
-## Github
 - 我的世界: [khanshoaib3/minecraft-access: A mod for minecraft java (fabric/forge) that adds accessibility feature](https://github.com/khanshoaib3/minecraft-access)
 - 炉石传说: [antonshusharin/DevTools](https://github.com/antonshusharin/DevTools)
 - 637k 星露谷物语: [khanshoaib3/stardew-access: An accessibility mod for Stardew Valley with screen reader and keyboard only support!](https://github.com/khanshoaib3/stardew-access)
@@ -22,10 +21,3 @@
 **Depricated**
 - Grand Theft Auto V: [liamerven/gta11y: Depricated Mod for Grand Theft auto V to add accessibility for blind gamers](https://github.com/liamerven/gta11y)
 - Factorio: [caspark/factorio-a11y: An accessibility mod which implements voice control for Factorio](https://github.com/caspark/factorio-a11y)
-
-
-## NexusMods
-- Palworld: [Accessibility Tweaks at Palworld Nexus - Mods and community](https://www.nexusmods.com/palworld/mods/531)
-    Palworld suffers from accessibility issues for a range of people including people with reduced eyesight and colorblindness. Accessibility Tweaks aims to bring more options to the table with customizable user interface colors and sizes.
-- Hades: [Erumi's Blind Accessibility Options at Hades Nexus - Mods and community](https://www.nexusmods.com/hades/mods/100)
-    A set of mods that will allow Blind Players to play the game much easier. 4 mods can be downloaded which are No Trap Damage, No Lava damage, Resource Shower, and Door Sounds.
