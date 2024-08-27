@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Game A11y Memo',
-  tagline: '一些关于游戏无障碍的备忘及想法',
+  tagline: '游戏无障碍的技术备忘及想法',
   favicon: 'img/favicon.ico',
 
   /* DOC:  https://docusaurus.io/docs/deployment#deploying-to-github-pages */
