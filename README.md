@@ -1,41 +1,35 @@
-# Website
+# A11y Memo
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+> Random memos for game accessibility.
+>
+> 关于游戏可访问性的随机想法备忘录。
 
-### Installation
 
-```
-$ yarn
-```
+- https://github.com/brunopulis/awesome-a11y
 
-### Local Development
 
-```
-$ yarn start
-```
+## Screen reader abstraction library
+- https://github.com/AccessKit/accesskit
+- https://github.com/qtnc/UniversalSpeech
+- https://github.com/sig-a11y/tolk
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-### Build
+## NVDA
 
-```
-$ yarn build
-```
+- #NVDA_Internals: https://nvda.groups.io/g/nvda/search?q=%23NVDA_Internals
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-### Deployment
+## Links
+> Site, Blog, ...
 
-Using SSH:
+- [Game Accessibility Resources Roundup • DigitalA11Y](https://www.digitala11y.com/game-accessibility-resources-roundup/)
+- [GAconf - ARCHIVE](https://www.gaconf.com/archive/)
 
-```
-$ USE_SSH=true yarn deploy
-```
 
-Not using SSH:
+Org:
+- [AFB Blog | American Foundation for the Blind](https://www.afb.org/blog)
+- [Accessibility | Eurogamer.net](https://www.eurogamer.net/topics/accessibility)
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Personal Blog:
+- [IllegallySighted](https://www.illegallysighted.com/)
+- [Sightless Kombat: Reviews, Guides And Articles](http://www.reviews.sightlesskombat.com/)
