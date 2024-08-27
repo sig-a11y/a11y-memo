@@ -22,3 +22,17 @@
 
 - [游戏无障碍设计指南 - 重要性 & 说明 | indienova](https://v3.indienova.com/site/gag/)  
     Game Accessibility Guidelines 的翻译
+- #NVDA_Internals: https://nvda.groups.io/g/nvda/search?q=%23NVDA_Internals
+- [Game Accessibility Resources Roundup • DigitalA11Y](https://www.digitala11y.com/game-accessibility-resources-roundup/)
+
+Repo
+- https://github.com/brunopulis/awesome-a11y
+
+Org:
+- [AFB Blog | American Foundation for the Blind](https://www.afb.org/blog)
+- [Accessibility | Eurogamer.net](https://www.eurogamer.net/topics/accessibility)
+- [GAconf - ARCHIVE](https://www.gaconf.com/archive/)
+
+Personal Blog:
+- [IllegallySighted](https://www.illegallysighted.com/)
+- [Sightless Kombat: Reviews, Guides And Articles](http://www.reviews.sightlesskombat.com/)
