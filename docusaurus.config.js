@@ -17,12 +17,12 @@ const config = {
   url: 'https://sig-a11y.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/a11y-memo/',
+  baseUrl: '/memo/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'sig-a11y', // Usually your GitHub org/user name.
-  projectName: 'a11y-memo', // Usually your repo name.
+  projectName: 'memo', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -43,7 +43,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/sig-a11y/a11y-memo/tree/main/',
+          editUrl: 'https://github.com/sig-a11y/memo/tree/main/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -75,7 +75,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'A11y Memo',
+        title: 'Game A11y Memo',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
@@ -89,7 +89,7 @@ const config = {
           },
           // {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/sig-a11y/a11y-memo',
+            href: 'https://github.com/sig-a11y/memo',
             label: 'GitHub',
             position: 'right',
           },
@@ -103,7 +103,7 @@ const config = {
           //   items: [
           //     {
           //       label: 'GitHub',
-          //       href: 'https://github.com/sig-a11y/a11y-memo',
+          //       href: 'https://github.com/sig-a11y/memo',
           //     },
           //   ],
           // },
