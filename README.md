@@ -33,3 +33,11 @@ Org:
 Personal Blog:
 - [IllegallySighted](https://www.illegallysighted.com/)
 - [Sightless Kombat: Reviews, Guides And Articles](http://www.reviews.sightlesskombat.com/)
+
+
+## License
+
+- 整个项目使用 [MIT](./LICENSE) 协议.
+- 文档及博客部分使用 [CC-BY-SA-4.0](./LICENSE-docs) 协议.
+    - 文档指 `docs/` 文件夹中的所有文件
+    - 博客指 `blog/` 文件夹中的所有文件
