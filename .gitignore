@@ -1,3 +1,7 @@
+dlls/
+
+
+# docusaurus ----------------
 # Dependencies
 /node_modules
 
