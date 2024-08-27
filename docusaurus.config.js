@@ -108,11 +108,11 @@ const config = {
             to: '/docs/category/tech',
             position: 'left',
           },
-          {
-            label: '想法',
-            to: '/docs/category/idea',
-            position: 'left',
-          },
+          // {
+          //   label: '想法',
+          //   to: '/docs/category/idea',
+          //   position: 'left',
+          // },
 
           {
             label: 'GitHub',
