@@ -80,17 +80,43 @@ const config = {
           alt: 'Logo',
           src: 'img/logo.svg',
         },
+        /* 顶端导航栏 */
         items: [
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   label: '备忘录导航',
+          //   position: 'left',
+          // },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            label: '备忘录导航',
+            to: '/docs/intro',
             position: 'left',
-            label: '备忘录',
           },
-          // {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/sig-a11y/memo',
+            label: '无障碍游戏',
+            to: '/docs/game',
+            position: 'left',
+          },
+          {
+            label: '无障碍补丁',
+            to: '/docs/category/mod',
+            position: 'left',
+          },
+          {
+            label: '技术备忘录',
+            to: '/docs/category/tech',
+            position: 'left',
+          },
+          {
+            label: '想法',
+            to: '/docs/category/idea',
+            position: 'left',
+          },
+
+          {
             label: 'GitHub',
+            href: 'https://github.com/sig-a11y/memo',
             position: 'right',
           },
         ],
