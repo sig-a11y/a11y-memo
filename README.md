@@ -1,6 +1,6 @@
 # Game Accessibility Memo
 
-> 关于游戏可访问性的随机想法备忘录。
+> 关于游戏无障碍的技术笔记和开发想法备忘录。
 >
 > Random Memos for Game Accessibility.
 
