@@ -1,5 +1,7 @@
 # Screen Reader API
 
+> 关注读屏软件的第三方调用接口
+
 ## [CN] 争渡读屏 (zdsr)
 
 `ZDSRAPI.dll`, `ZDSRAPI_x64.dll`
