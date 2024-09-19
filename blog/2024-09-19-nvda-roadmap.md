@@ -5,55 +5,58 @@ authors: [NV-Access, inky]
 tags: [NVDA]
 ---
 
-对 NVDA 官方博客 [NVDA Roadmap](https://www.nvaccess.org/post/nvda-roadmap/) 的翻译.
+对 NVDA 官方博客 [NVDA Roadmap](https://www.nvaccess.org/post/nvda-roadmap/) 的翻译。
+
+本文概述了 NV Access 针对 NVDA 及其支持基础设施的开发路线图。优先事项按时间规划分为：短期、中期和长期。
+该路线图将定期更新，以反映已完成的项目、开发进展以及屏幕阅读器世界和更广泛技术领域的重大变化。
 
 <!-- truncate -->
 
-> September 19, 2024 5:20 pm
+> 英文原文发布时间：2024年9月19日，下午 5:20  
+> 原作者：NV Access；译者：inky
 
-This document outlines NV Access’s planned development roadmap for NVDA and its supporting infrastructure. Priorities are grouped into short, medium and long-term timeframes. This roadmap will be updated to reflect completed projects, development progress and significant changes to the world of screen readers and the wider technology space.
+## 短期优先事项
 
-## Short-Term Priorities
+这些优先事项侧重于在不久的将来会提供的增强和改进。
 
-These priorities focus on enhancements and improvements that we aim to deliver in the near future.
+* **集成 MathCAT 到核心**：将 MathCAT 数学表达式阅读器直接集成到 NVDA 核心，提供对数学内容的无缝访问。
+* **ARIA 合规性**：持续改进和更新 NVDA 的 ARIA（可访问的丰富互联网应用程序）支持，确保与现代网络内容兼容。
+* **盲文增强功能**：解决已知问题，改善 NVDA 中盲文支持的整体稳定性和可靠性。
+* **盲文字体属性**：添加对盲文字体属性的支持，允许更多定制和信息丰富的盲文显示。
+* **更新项目的代码检查**：更新我们的代码检查工具和规则，以提高项目中的代码质量和一致性。
+* **优化认证系统查询**： 优化 NVDA 认证系统使用的数据库查询，以提高性能并减少延迟。
+* **将服务器基础设施容器化**：将我们的服务器基础设施迁移到容器中，增强可扩展性、可维护性和部署灵活性。
+* **附加组件商店自动更新**：启用从 NVDA 附加组件商店下载的附加组件的自动更新，确保用户拥有最新的功能和错误修复。
 
-* **MathCAT integration into core:** Integrating the MathCAT math expression reader directly into the NVDA core, providing seamless access to mathematical content.
-* **ARIA compliance:** Continued improvements and updates to NVDA’s ARIA (Accessible Rich Internet Applications) support, ensuring compatibility with modern web content.
-* **Braille enhancements:** Addressing known issues and improving the overall stability and reliability of braille support in NVDA.
-* **Braille font attributes:** Adding support for braille font attributes, allowing for more customised and informative braille displays.
-* **Updated project linting:** Updating our linting tools and rules to improve code quality and consistency across the project.
-* **Optimising certification system queries:** Optimising database queries used by the NVDA certification system to improve performance and reduce latency.
-* **Containerising server infrastructure:** Migrating our server infrastructure to containers, enhancing scalability, maintainability, and deployment flexibility.
-* **Add-on Store automatic updates:** Enabling automatic updates for add-ons downloaded from the NVDA Add-on Store, ensuring users have the latest features and bug fixes.
+## 中期优先事项
 
-## Medium-Term Priorities
+这些优先事项代表了需要更广泛开发工作的重要特性和改进。
 
-These priorities represent significant features and improvements that require more extensive development effort.
+* **将 NVDA 远程协助功能集成到核心**：将 NVDA 远程插件的功能迁移到 NVDA 的核心，以实现功能增强和安全性。
+* **盲文多行显示原型**：为多行盲文显示支持开发原型，探索用盲文呈现信息的新方式。
+* **增强的 Excel UIA 支持**：对 NVDA 的 UIA（用户界面自动化）支持进行了改进，为 Microsoft Excel 提供了更强大和直观的体验，使得在电子表格中导航和交互更加顺畅。
+* **支持 Microsoft Natural Voices**：添加对 Microsoft 的 Natural Voices 文本转语音引擎的支持，扩大用户选择范围，并提供高质量合成语音的访问。
+* **附加组件商店的 Web 前端**：为 NVDA 附加组件商店创建一个基于 Web 的前端，使其更易访问和浏览，并更容易搜索附加组件。
+* **附加组件安装遥测**：收集有关附加组件安装的匿名数据，以了解使用模式，帮助优先考虑改进附加组件生态系统的开发工作。
+* **ARM 安装遥测**：收集关于 ARM 平台安装的匿名数据，提供有关不断变化的使用模式的见解。
+* **匿名标识符**: 实施一个系统，用于为 NVDA 安装生成独特、轮换的匿名标识符，从而实现更好的数据收集和分析，而不会损害用户隐私。
+* **Windows 8.1, 2012/R2 支持结束**：正式终止对旧版 Windows 的支持，让我们能够专注于为现代操作系统及其最新的辅助功能进行开发。
 
-* **Integration of NVDA Remote into core:** Migrating the functionality of the NVDA Remote add-on into NVDA’s core for enhanced functionality and security.
-* **Braille multi-line prototype:** Development of a prototype for multi-line braille display support, exploring new ways to present information in braille.
-* **Enhanced Excel UIA support:** Improvements to NVDA’s UIA (User Interface Automation) support for Microsoft Excel, providing a more robust and intuitive experience for navigating and interacting with spreadsheets.
-* **Support for Microsoft Natural Voices:** Adding support for Microsoft’s Natural Voices text-to-speech engine, expanding user choice and providing access to high-quality synthetic voices.
-* **Web front end for Add-on Store:** Creating a web-based front end for the NVDA Add-on Store, making it more accessible and easier to browse and search for add-ons.
-* **Add-on installation telemetry:** Gathering anonymous data on add-on installations to understand usage patterns to help prioritise development efforts to improve the add-on ecosystem.
-* **ARM installation telemetry:** Gathering anonymous data on ARM installations, providing insights into changing usage patterns.
-* **Anonymous identifier:** Implementation of a system for generating unique, rotating, anonymous identifiers for NVDA installations, allowing for better data collection and analysis without compromising user privacy.
-* **End of support for Windows 8.1, 2012/R2:** Officially ending support for older versions of Windows, allowing us to focus on developing for modern operating systems and their latest accessibility features.
+## 长期优先事项
 
-## Long-Term Priorities
+这些优先事项代表了雄心勃勃的目标和倡议，将塑造 NVDA 的未来。
 
-These priorities represent ambitious goals and initiatives that will shape the future of NVDA.
+* **集成 AI 图像描述**：免费、安全、高性能、私密且专注于视觉指引（VI）的 AI 图像描述可。
+* **安全的附加组件环境**：构建更安全的附加组件生态系统，保护用户免受潜在恶意附加组件的侵害。
+* **放大镜原型**: 探索作为原型的内置屏幕放大功能的开发，以更好地支持我们的低视力用户。
+* **功能使用遥测**: 实施匿名遥测以跟踪 NVDA 内的功能使用情况，帮助我们了解用户如何与软件交互，并确定改进的方向。
+* **NVDA 辅助功能测试人员的官方培训材料**：为有意成为 NVDA 辅助功能测试人员的个人开发全面的培训材料，确保高质量的测试和反馈。
+* **NVDA 帮助 AI 聊天机器人原型**: 探索开发一个 AI 动力聊天机器人，提供即时支持并回答关于 NVDA 的常见问题。
+* **自动 C++ 和 Markdown 代码检查**： 实现对 C++ 和 Markdown 文件的自动代码检查，进一步提高项目中的代码质量和一致性。
 
-* **Integrated AI image description:** Free, secure, performant, private and VI-focussed AI image description available out of the box.
-* **Secure add-on environment:** Building a more secure add-on ecosystem, protecting users from potentially malicious add-ons.
-* **Magnifier prototype:** Exploring the development of a built-in screen magnification feature as a prototype, to better support our low-vision users.
-* **Feature usage telemetry:** Implementing anonymous telemetry to track feature usage within NVDA, helping us understand how users interact with the software and identify areas for improvement.
-* **Official training material for NVDA accessibility testers:** Developing comprehensive training materials for individuals interested in becoming NVDA accessibility testers, ensuring high-quality testing and feedback.
-* **NVDA help AI chatbot prototype:** Exploring the development of an AI-powered chatbot to provide instant support and answer frequently asked questions about NVDA.
-* **Automated C++ and markdown linting:** Implementing automated linting for C++ and Markdown files, further improving code quality and consistency within the project.
+## 贡献和反馈
 
-## Contributing and Feedback
+我们鼓励来自社区的贡献！
 
-We encourage contributions from the community!
-
-Please explore NVDA’s [GitHub repository](https://github.com/nvaccess/nvda/blob/master/.github/CONTRIBUTING.md) or [user group](https://nvda.groups.io/g/nvda) to learn more about how you can get involved.
+请探索 NVDA 的 [GitHub 存储库](https://github.com/nvaccess/nvda/blob/master/.github/CONTRIBUTING.md)
+或 [用户组](https://nvda.groups.io/g/nvda) 以了解更多关于如何参与进项目的信息。
