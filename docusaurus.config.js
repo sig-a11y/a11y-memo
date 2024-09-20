@@ -108,11 +108,11 @@ const config = {
             to: '/docs/category/tech',
             position: 'left',
           },
-          // {
-          //   label: '想法',
-          //   to: '/docs/category/idea',
-          //   position: 'left',
-          // },
+          {
+            label: '博客文章',
+            to: '/blog',
+            position: 'left',
+          },
 
           {
             label: 'GitHub',
@@ -124,15 +124,19 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          // {
-          //   title: '外部链接',
-          //   items: [
-          //     {
-          //       label: 'GitHub',
-          //       href: 'https://github.com/sig-a11y/memo',
-          //     },
-          //   ],
-          // },
+          {
+            title: '外部链接',
+            items: [
+              {
+                label: 'GitHub SIG-A11y',
+                href: 'https://github.com/sig-a11y',
+              },
+              {
+                label: 'GitHub Game-A11y',
+                href: 'https://github.com/game-a11y',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} SIG-A11y Project, Built with Docusaurus`,
       },
