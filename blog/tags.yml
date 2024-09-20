@@ -1,4 +1,8 @@
 nvda:
   label: NVDA
   permalink: /nvda
-  description: NVDA screen reader
+  description: NVDA 屏幕阅读器
+nvda-internals:
+  label: NVDA Internals
+  permalink: /nvda-internals
+  description: NVDA 内幕故事系列文章

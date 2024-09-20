@@ -1,23 +1,30 @@
 inky:
   name: Inkydragon
   title: Opensource contribution @ Github
-  url: https://github.com/inkydragon
   image_url: https://github.com/inkydragon.png
-  page: true
   socials:
     x: inkydragon
     github: inkydragon
 
-# ---- maybe once
 NV-Access:
   name: NV Access
   title: The creators of NVDA
   url: https://www.nvaccess.org/
-  # image_url: https://github.com/slorber.png
   socials:
     x: nvAccess
     github: nvaccess
+
+Joseph:
+  name: Joseph Lee
+  title: The author of NVDA-Internals
+  url: https://nvda.groups.io/g/nvda/profile/@joslee
+  image_url: https://github.com/josephsl.png
+  socials:
+    x: joslee
+    github: josephsl
+
+# ---- maybe once
 nsoiffer:
   name: NSoiffer
-  title: The creators of NVDA MathCAT
+  title: The creator of NVDA MathCAT
   url: https://github.com/NSoiffer
