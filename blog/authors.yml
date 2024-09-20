@@ -2,6 +2,7 @@ inky:
   name: Inkydragon
   title: Opensource contribution @ Github
   image_url: https://github.com/inkydragon.png
+  page: true
   socials:
     x: inkydragon
     github: inkydragon
@@ -10,6 +11,7 @@ NV-Access:
   name: NV Access
   title: The creators of NVDA
   url: https://www.nvaccess.org/
+  page: true
   socials:
     x: nvAccess
     github: nvaccess
@@ -19,6 +21,7 @@ Joseph:
   title: The author of NVDA-Internals
   url: https://nvda.groups.io/g/nvda/profile/@joslee
   image_url: https://github.com/josephsl.png
+  page: true
   socials:
     x: joslee
     github: josephsl
