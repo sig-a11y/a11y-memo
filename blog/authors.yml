@@ -11,6 +11,7 @@ NV-Access:
   name: NV Access
   title: The creators of NVDA
   url: https://www.nvaccess.org/
+  image_url: https://github.com/nvaccess.png
   page: true
   socials:
     x: nvAccess
