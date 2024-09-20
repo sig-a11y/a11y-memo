@@ -4,7 +4,8 @@
 >
 > Random Memos for Game Accessibility.
 
-内容见: [`docs/`](docs/) 文件夹
+- 文档备忘录: [`docs/`](docs/)
+- 博客及翻译: [`blog/`](blog/)
 
 ## License
 
