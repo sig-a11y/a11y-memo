@@ -2,7 +2,7 @@
 slug: nvda-internals-2
 title: NVDA 内幕故事2：屏幕阅读器是什么、不是什么、可能性和限制
 authors: [Joseph, inky]
-tags: [nvda-internals]
+tags: [nvda-internals, 译文]
 ---
 
 ## 什么是屏幕阅读器

@@ -2,7 +2,7 @@
 slug: nvda-internals-1
 title: NVDA 内幕故事1：概述与总体目标
 authors: [Joseph, inky]
-tags: [nvda-internals]
+tags: [nvda-internals, 译文]
 ---
 
 > 译注：《内幕故事》系列文章为英文译文。后文中的“我”指 Joseph Lee

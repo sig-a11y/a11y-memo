@@ -2,7 +2,7 @@
 slug: nvda-roadmap-2024
 title: NVDA 路线图 (2024)
 authors: [NV-Access, inky]
-tags: [NVDA]
+tags: [NVDA, 译文]
 ---
 
 对 NVDA 官方博客 [NVDA Roadmap](https://www.nvaccess.org/post/nvda-roadmap/) 的翻译。

@@ -2,7 +2,7 @@
 slug: mathcat-intro
 title: 数学猫（MathCAT）背后的故事 —— MathCAT 开发简史与作者简介
 authors: [nsoiffer, inky]
-tags: []
+tags: [译文]
 ---
 
 译注：本文大部分内容翻译自 [MathCAT 的首页][1]，翻译以意译为主，故意跳过了过于技术的部分。
